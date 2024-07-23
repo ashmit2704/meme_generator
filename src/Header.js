@@ -4,6 +4,7 @@ export default function Header() {
     return (
         <header className="header">
             <img 
+                alt="Face Logo"
                 src="./images/face.svg" 
                 className="header--image"
             />
